@@ -2,7 +2,7 @@
 
 A simple drug analyzer built in Python using *Pandas and RDkit* libraries.
 
-Outputs a modified version of the initial dataset to the same '.csv' or a '.xlsx' file, containing the molecular weight, logP, number of hydrogen bond donors/acceptors, number of rotateable bonds and the topological polar surface area (TPSA).
+Outputs a modified version of the initial dataset to the same `.csv` or a `.xlsx` file, containing the molecular weight, logP, number of hydrogen bond donors/acceptors, number of rotateable bonds and the topological polar surface area (TPSA).
 
 
 
