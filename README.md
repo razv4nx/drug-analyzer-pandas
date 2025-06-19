@@ -23,6 +23,16 @@ Paracetamol,CC(=O)NC1=CC=C(C=C1)O
 
 RDKit is an open-source cheminformatics software toolkit, usually installed using a ***Conda enviornment***. For that matter, if you haven't already installed the necessary libraries for this program, I urge you to either **install** the **`enviornment.yml`** document found in this repository (follow the instructions below) or to use a *Conda enviornment* when installing RDkit ([here's a useful tutorial made by the developers of RDkit](https://www.rdkit.org/docs/Install.html)), and use **pip install** for the other libraries.
 
+### Documents found in this repository
+
+* `drug_analyzer.py` : main python code
+
+* `enviornment.yml` : enviornment necessary for the use of this program
+
+* `molecules.csv` : sample dataset
+ 
+ 
+
 
 ## How to use
 
